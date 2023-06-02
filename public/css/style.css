@@ -1,0 +1,11 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: beige;
+    background: #333;
+    text-align: center;
+    padding-top: 100px;
+}
+
+a{
+    color: coral;
+}
